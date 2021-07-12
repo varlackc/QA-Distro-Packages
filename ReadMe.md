@@ -7,7 +7,7 @@ Document how we validate package builds today prior to them going to defaults. D
 
 # Document Current State for How Distro QA's Packages
 
-![Existing Current State for How Distro QA's Packages](src/Diagram_Old_Documentation.png)
+![Existing Current State for How Distro QA's Packages](src/Diagram_Old_Documentation_v2.png)
 
 * Prepare Package
 * Review Changes
