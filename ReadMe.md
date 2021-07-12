@@ -1,9 +1,5 @@
 # Document Current and Proposed Future State for How Distro QA's Packages
 
----
-This is one of our department big rocks for Q2. Uniformly understanding what we do today, where we have opportunities, and where we will move forward in the interim. After we have an understood process so how we QA package builds prior to them going to defaults, I would like to involve a QA automation engineer to help us improve velocity of testing, etc. 
-<br/>
-
 # Acceptance Criteria
 ---
 Document how we validate package builds today prior to them going to defaults. Document recommended process for the near term future (Distro Confluence).
