@@ -53,6 +53,9 @@ The QA team will open the ticket and will read and investigate the details regar
  
 The package will be tested, and a report will be made of any additional issues or changes required. 
 
+## Notes:
+It is important to mention that the required package fullfils its dependencies criteria or any compatibility issues. 
+
 # Document Future State for How Distro QA's Packages
 
 ... To Be Determined ...
